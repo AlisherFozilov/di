@@ -1,9 +1,9 @@
 package main
 
 import (
-	"di/pkg/di"
 	"errors"
 	"fmt"
+	"github.com/AlisherFozilov/di/pkg/di"
 	"log"
 )
 
